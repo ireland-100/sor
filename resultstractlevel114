@@ -1,0 +1,1351 @@
+06ecological_acs_pl--EITYPE--2x2--RACE--black_PL_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        0.598
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        0.004
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        [0.22555301 0.83310549]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        [0.00385467 0.0038844 ]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        0.476
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        0.099
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        [0.33041861 0.78028029]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        [0.09939694 0.09957155]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        0.601
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        [0.32897096 0.78277562]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        [0.00579233 0.00584776]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        0.500
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        0.099
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        [0.23146539 0.73305577]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        [0.09941307 0.09955256]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        0.520
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        [0.4000802  0.71646413]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        [0.00579879 0.00583894]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        0.477
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        0.870
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        [0.29044045 0.56958111]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        [0.8702978 0.870486 ]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.517
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.3332413 0.7597459]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.0058092  0.00584077]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        0.554
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        0.870
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        [0.38868587 0.64858367]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        [0.87031099 0.87054619]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.451
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.37487973 0.53329498]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.00580517 0.00584112]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        0.484
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.21088227 0.71066177]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.00580411 0.00584721]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.460
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.099
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.25465408 0.71872385]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.0993359  0.09955342]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--sor_PL_pct--DEMOGROUPS--hispanic_PL_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        0.549
+        The posterior mean for the district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        0.906
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        [0.48053197 0.62552299]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        [0.89746018 0.91353999]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        0.617
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        [0.39083823 0.86559931]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        [0.00580475 0.00584344]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        0.404
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        0.008
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        [0.27021293 0.59981194]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        [0.00783272 0.00786902]
+        
+06ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        0.528
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        [0.2339936  0.65881191]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        [0.00579289 0.00583881]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--black_PL_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        0.611
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        0.135
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        [0.24240547 0.90390344]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        [0.13504386 0.13547407]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        0.742
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        0.095
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        [0.40252491 0.95846929]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        [0.09491597 0.09527065]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        0.773
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        0.007
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        [0.55048346 0.94369863]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        [0.00649525 0.00662736]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        0.480
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        0.095
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        [0.31970421 0.7159714 ]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        [0.09495668 0.09530861]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        0.546
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        0.007
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        [0.30105504 0.8683306 ]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        [0.00649077 0.00660145]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        0.569
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        0.958
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        [0.12762163 0.92084998]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        [0.95777213 0.95805936]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.439
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.007
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.19967874 0.68269232]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.00650335 0.00661233]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        0.462
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        0.958
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        [0.20887424 0.67263666]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        [0.95779978 0.95804279]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.632
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.004
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.26248957 0.95254074]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.00206335 0.00536058]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        0.623
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        0.004
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.23150064 0.96038552]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.00205529 0.00549894]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.472
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.093
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.18694546 0.92996064]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.09121838 0.09480556]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--sor_PL_pct--DEMOGROUPS--hispanic_PL_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        0.658
+        The posterior mean for the district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        0.989
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        [0.563971   0.69682075]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        [0.98535875 0.99936653]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        0.606
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        0.004
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        [0.48163555 0.75252118]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        [0.00304103 0.00431844]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        0.614
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        0.006
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        [0.48299787 0.76782524]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        [0.00527429 0.00665828]
+        
+25ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        0.482
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        0.004
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        [0.23642397 0.87497563]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        [0.00246889 0.00550413]
+        
+25ecological_acs_pl--EITYPE--2x4--RACE--Brazilian-Non-Brazilian--DEMOGROUPS--SOR0-W0-B0-Other--SUMMARY.json
+
+            Computed from the raw b_ samples by multiplying by group populations and then
+            getting the proportion of the total pop
+            (total pop=summed across all districts):
+            The posterior mean for the district-level voting preference of
+                SOR0 for Brazilian is
+                0.000
+                95% equal-tailed credible interval:  [1.57249137e-06 4.73961843e-06]
+                The posterior mean for the district-level voting preference of
+                SOR0 for Non-Brazilian is
+                1.000
+                95% equal-tailed credible interval:  [0.99999526 0.99999843]
+                The posterior mean for the district-level voting preference of
+                W0 for Brazilian is
+                0.000
+                95% equal-tailed credible interval:  [8.64527454e-06 2.24294079e-05]
+                The posterior mean for the district-level voting preference of
+                W0 for Non-Brazilian is
+                1.000
+                95% equal-tailed credible interval:  [0.99997757 0.99999135]
+                The posterior mean for the district-level voting preference of
+                B0 for Brazilian is
+                0.001
+                95% equal-tailed credible interval:  [0.00034748 0.00068616]
+                The posterior mean for the district-level voting preference of
+                B0 for Non-Brazilian is
+                0.999
+                95% equal-tailed credible interval:  [0.99931384 0.99965252]
+                The posterior mean for the district-level voting preference of
+                Other for Brazilian is
+                0.000
+                95% equal-tailed credible interval:  [8.63591816e-06 2.42078559e-05]
+                The posterior mean for the district-level voting preference of
+                Other for Non-Brazilian is
+                1.000
+                95% equal-tailed credible interval:  [0.99997579 0.99999136]
+                
+26ecological_acs_pl--EITYPE--2x2--RACE--black_PL_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        0.532
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        0.015
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        [0.21335001 0.93468347]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        [0.01462891 0.01476246]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        0.447
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        0.030
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        [0.16859579 0.76378789]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        [0.02999747 0.03023974]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        0.419
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        [0.17976779 0.62290949]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        [1.70998270e-07 1.48917197e-06]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        0.538
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        0.030
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        [0.23655422 0.74913374]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        [0.02997185 0.03020513]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        0.514
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        [0.20149867 0.90242682]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        [1.61444970e-07 1.09625231e-06]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        0.457
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        0.955
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        [0.18471835 0.72186097]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        [0.9549306  0.95516943]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.340
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.17030797 0.57000584]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        [1.66685224e-07 9.95455740e-07]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        0.551
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        0.955
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        [0.21402103 0.7220479 ]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        [0.95493461 0.95522146]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.779
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.47495441 0.97999071]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        [8.79981148e-08 7.49220484e-07]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        0.491
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.27356452 0.79667535]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        [8.13000586e-08 1.60637125e-06]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.519
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.030
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.33918636 0.7019472 ]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.03003102 0.03021235]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--sor_PL_pct--DEMOGROUPS--hispanic_PL_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        0.341
+        The posterior mean for the district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        0.974
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        [0.06743266 0.75802364]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        [0.96123751 0.98279164]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        0.389
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        [0.22518253 0.57329657]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        [1.30802403e-07 6.48024562e-07]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        0.390
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        0.011
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        [0.18566373 0.68278769]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        [0.01076109 0.01089474]
+        
+26ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        0.591
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        [0.26230362 0.86302605]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        [1.28239036e-07 1.05412080e-06]
+        
+26ecological_acs_pl--EITYPE--2x4--RACE--Brazilian-Non-Brazilian--DEMOGROUPS--SOR0-W0-B0-Other--SUMMARY.json
+
+            Computed from the raw b_ samples by multiplying by group populations and then
+            getting the proportion of the total pop
+            (total pop=summed across all districts):
+            The posterior mean for the district-level voting preference of
+                SOR0 for Brazilian is
+                0.000
+                95% equal-tailed credible interval:  [1.75570443e-06 4.10803686e-06]
+                The posterior mean for the district-level voting preference of
+                SOR0 for Non-Brazilian is
+                1.000
+                95% equal-tailed credible interval:  [0.99999589 0.99999824]
+                The posterior mean for the district-level voting preference of
+                W0 for Brazilian is
+                0.000
+                95% equal-tailed credible interval:  [7.79760430e-05 1.40017342e-04]
+                The posterior mean for the district-level voting preference of
+                W0 for Non-Brazilian is
+                1.000
+                95% equal-tailed credible interval:  [0.99985998 0.99992202]
+                The posterior mean for the district-level voting preference of
+                B0 for Brazilian is
+                nan
+                95% equal-tailed credible interval:  [nan nan]
+                The posterior mean for the district-level voting preference of
+                B0 for Non-Brazilian is
+                nan
+                95% equal-tailed credible interval:  [nan nan]
+                The posterior mean for the district-level voting preference of
+                Other for Brazilian is
+                0.000
+                95% equal-tailed credible interval:  [4.81068835e-05 9.14140705e-05]
+                The posterior mean for the district-level voting preference of
+                Other for Non-Brazilian is
+                1.000
+                95% equal-tailed credible interval:  [0.99990859 0.99995189]
+                
+36ecological_acs_pl--EITYPE--2x2--RACE--black_PL_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        0.481
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        0.001
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        [0.13729    0.78478815]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        [0.00106303 0.00108532]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        0.461
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        0.016
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        [0.20972014 0.65888272]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        [0.01634762 0.01644063]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        0.440
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        [0.09791382 0.79854504]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        [9.19418769e-08 9.03072228e-07]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        0.371
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        0.016
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        [0.08329984 0.6235683 ]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        [0.01634823 0.01644989]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        0.601
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        [0.20130915 0.87782822]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        [1.04340165e-07 4.66148689e-07]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        0.569
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        0.978
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        [0.12819414 0.80031967]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        [0.9780786  0.97816814]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.540
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.2417673  0.80243279]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        [1.30375226e-07 1.00838446e-06]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        0.396
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        0.978
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        [0.21391751 0.55564456]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        [0.97806969 0.97817753]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.440
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.20814924 0.70454847]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        [1.27644484e-07 8.81514699e-07]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        0.278
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.10503773 0.52037713]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        [6.38335382e-08 8.59475075e-07]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.606
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.016
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.42862447 0.77697757]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.01633164 0.01643007]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--sor_PL_pct--DEMOGROUPS--hispanic_PL_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        0.540
+        The posterior mean for the district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        0.985
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        [0.30312944 0.76404098]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        [0.98168394 0.98946877]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        0.307
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        [0.18496533 0.43988606]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        [7.84919510e-08 1.47540349e-06]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        0.473
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        0.010
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        [0.26649819 0.73507783]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        [0.01031328 0.01039386]
+        
+36ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        0.653
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        0.000
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        [0.34360487 0.95219739]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        [6.73531492e-08 9.33402372e-07]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--black_PL_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        0.311
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        0.011
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for black_PL_pct is
+        [0.14892274 0.5272945 ]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for black_PL_pct is
+        [0.01077701 0.01085077]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        0.666
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        0.956
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for hispanic_PL_pct is
+        [0.39401755 0.82817104]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for hispanic_PL_pct is
+        [0.95615661 0.95629812]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        0.578
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        0.047
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for hispanic_PL_pct is
+        [0.32473623 0.8368382 ]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for hispanic_PL_pct is
+        [0.04692011 0.04705629]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--hispanic_PL_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        0.444
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        0.956
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for hispanic_PL_pct is
+        [0.28045678 0.79484465]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for hispanic_PL_pct is
+        [0.9561701  0.95627651]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--belizean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        0.633
+        The posterior mean for the district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        0.047
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        belizean_ACS_pct for sor_ACS_pct is
+        [0.3898179  0.83348095]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-belizean_ACS_pct for sor_ACS_pct is
+        [0.0469439  0.04708223]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--brazilian_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        0.446
+        The posterior mean for the district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        0.670
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        brazilian_ACS_pct for sor_ACS_pct is
+        [0.29177372 0.62782122]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-brazilian_ACS_pct for sor_ACS_pct is
+        [0.66956724 0.66988863]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--cabo_verdean_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.481
+        The posterior mean for the district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        0.047
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.26662532 0.68014697]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-cabo_verdean_ACS_pct for sor_ACS_pct is
+        [0.04689611 0.04706078]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--guyanese_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        0.475
+        The posterior mean for the district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        0.670
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        guyanese_ACS_pct for sor_ACS_pct is
+        [0.34501623 0.56629245]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-guyanese_ACS_pct for sor_ACS_pct is
+        [0.66958106 0.66984572]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.452
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        0.047
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.23054347 0.65576882]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for sor_ACS_pct is
+        [0.04693105 0.04707608]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        0.368
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        0.047
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.25391972 0.53205846]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for sor_ACS_pct is
+        [0.04691759 0.04704359]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_ACS_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.474
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        0.956
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.2192602  0.68757973]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for sor_ACS_pct is
+        [0.95615598 0.95628008]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--sor_PL_pct--DEMOGROUPS--hispanic_PL_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        0.674
+        The posterior mean for the district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        0.567
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        hispanic_PL_pct for sor_PL_pct is
+        [0.66713966 0.68633137]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-hispanic_PL_pct for sor_PL_pct is
+        [0.30600456 0.72532215]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unhcr_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        0.504
+        The posterior mean for the district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        0.047
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unhcr_ACS_pct for white_PL_pct is
+        [0.27359688 0.70829035]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unhcr_ACS_pct for white_PL_pct is
+        [0.04693487 0.04705634]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_unsd_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        0.403
+        The posterior mean for the district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        0.179
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_unsd_ACS_pct for white_PL_pct is
+        [0.31975529 0.49919919]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_unsd_ACS_pct for white_PL_pct is
+        [0.17855983 0.17881788]
+        
+48ecological_acs_pl--EITYPE--2x2--RACE--white_PL_pct--DEMOGROUPS--mena_world_bank_ACS_pct--SUMMARY.json
+Model: king99_pareto_modification
+        Computed from the raw b_i samples by multiplying by population and then getting
+        the proportion of the total pop (total pop=summed across all districts):
+        The posterior mean for the district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        0.582
+        The posterior mean for the district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        0.047
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        mena_world_bank_ACS_pct for white_PL_pct is
+        [0.33676225 0.75406763]
+        95% equal-tailed Bayesian credible interval for district-level voting preference of
+        non-mena_world_bank_ACS_pct for white_PL_pct is
+        [0.04692882 0.04706713]
+        
