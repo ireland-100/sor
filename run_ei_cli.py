@@ -113,12 +113,12 @@ def main(settings_file: str):
             0
         ].tolist(),
         f"posterior_mean_NON_{dem_group_names}_{cand_names}": model.posterior_mean_voting_prefs[
-            0
+            1 #### this is probably where the error is, so I changed it
         ]
         .astype(float)
         .tolist(),
         f"credible_interval_NON_{dem_group_names}_{cand_names}": model.credible_interval_95_mean_voting_prefs[
-            0
+            1 ### same as above
         ].tolist(),
     }
 
@@ -132,26 +132,29 @@ def main(settings_file: str):
         Path(settings_file).stem + "--PLOT.png"
     )
 
+    output_goodmans_file = Path("./plots").resolve() / Path(
+        Path(settings_file).stem + "--GOODMANSPLOT.png"
+    )
+
     # The 2x4 plots KDES, so we need to separate it
     if isinstance(model, TwoByTwoEI):
         plt.clf()
-        _, ax = plt.subplots(2)
-
-        model.plot(axes=ax)
-
-        ##here is what chloe added in January
         goodmans_er = GoodmansER(is_weighted_regression="True")
         goodmans_er.fit(group_fraction_matrix,
-        votes_fraction_matrix,
-        population_vector, # Must include populations if weighting by population
-        demographic_group_name=demographic_group_names,
-        candidate_name=candidate_names)
+                        votes_fraction_matrix,
+                        population_vector,
+                        demographic_group_name=demographic_group_names,
+                        candidate_name=candidate_names)
+
+        fig, _ = goodmans_er.plot()
+
+        fig.savefig(output_goodmans_file, bbox_inches="tight", dpi=300)
 
         ###########
 
-        ax[0].set_xlim(-0.1, 1.01)
-        ax[1].set_xlim(-0.1, 1.01)
-        plt.savefig(output_plot_file, bbox_inches="tight", dpi=300)
+        #ax[0].set_xlim(-0.1, 1.01)
+        #ax[1].set_xlim(-0.1, 1.01)
+        #plt.savefig(output_plot_file, bbox_inches="tight", dpi=300)
     else:
         plt.clf()
         _, ax = plt.subplots()
