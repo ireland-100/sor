@@ -1,0 +1,18 @@
+{
+    "csv_flie_name": "/net/projects2/dnd_shared/chloe/sum25_pyei/csv_files/26ecological_acs_pl.csv",
+    "ei_type": "2x2",
+    "candidate_names": [
+        "sor_ACS_pct"
+    ],
+    "demographic_group_names": [
+        "mena_world_bank_ACS_pct"
+    ],
+    "precinct_column_name": "GEOID",
+    "group_fraction_column_names": [
+        "mena_world_bank_ACS_pct"
+    ],
+    "votes_fraction_column_names": [
+        "sor_ACS_pct"
+    ],
+    "pop_column_name": "P1_001N"
+}
