@@ -1,0 +1,13 @@
+{
+    "summary": "Model: king99_pareto_modification\n        Computed from the raw b_i samples by multiplying by population and then getting\n        the proportion of the total pop (total pop=summed across all districts):\n        The posterior mean for the district-level voting preference of\n        guyanese_ACS_pct for hispanic_PL_pct is\n        0.518\n        The posterior mean for the district-level voting preference of\n        non-guyanese_ACS_pct for hispanic_PL_pct is\n        0.351\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        guyanese_ACS_pct for hispanic_PL_pct is\n        [0.04640908 0.94646549]\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        non-guyanese_ACS_pct for hispanic_PL_pct is\n        [0.34964063 0.35276258]\n        ",
+    "posterior_mean_guyanese_ACS_pct_hispanic_PL_pct": 0.5177166912289065,
+    "credible_interval_guyanese_ACS_pct_hispanic_PL_pct": [
+        0.04640908024415543,
+        0.9464654946347935
+    ],
+    "posterior_mean_NON_guyanese_ACS_pct_hispanic_PL_pct": 0.3512171823205066,
+    "credible_interval_NON_guyanese_ACS_pct_hispanic_PL_pct": [
+        0.34964062918744143,
+        0.35276257918871673
+    ]
+}
