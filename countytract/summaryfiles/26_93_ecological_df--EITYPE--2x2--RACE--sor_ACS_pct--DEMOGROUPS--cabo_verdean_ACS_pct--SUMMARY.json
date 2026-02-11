@@ -1,0 +1,13 @@
+{
+    "summary": "Model: king99_pareto_modification\n        Computed from the raw b_i samples by multiplying by population and then getting\n        the proportion of the total pop (total pop=summed across all districts):\n        The posterior mean for the district-level voting preference of\n        cabo_verdean_ACS_pct for sor_ACS_pct is\n        0.469\n        The posterior mean for the district-level voting preference of\n        non-cabo_verdean_ACS_pct for sor_ACS_pct is\n        0.005\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        cabo_verdean_ACS_pct for sor_ACS_pct is\n        [0.0260822  0.97071427]\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        non-cabo_verdean_ACS_pct for sor_ACS_pct is\n        [0.00466835 0.00527401]\n        ",
+    "posterior_mean_cabo_verdean_ACS_pct_sor_ACS_pct": 0.46930661886166636,
+    "credible_interval_cabo_verdean_ACS_pct_sor_ACS_pct": [
+        0.02608220165713069,
+        0.9707142697179295
+    ],
+    "posterior_mean_NON_cabo_verdean_ACS_pct_sor_ACS_pct": 0.004962771797560273,
+    "credible_interval_NON_cabo_verdean_ACS_pct_sor_ACS_pct": [
+        0.0046683535128082005,
+        0.005274014436489719
+    ]
+}
