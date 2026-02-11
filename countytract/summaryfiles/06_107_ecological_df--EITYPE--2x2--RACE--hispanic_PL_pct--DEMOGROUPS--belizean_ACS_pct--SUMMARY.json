@@ -1,0 +1,13 @@
+{
+    "summary": "Model: king99_pareto_modification\n        Computed from the raw b_i samples by multiplying by population and then getting\n        the proportion of the total pop (total pop=summed across all districts):\n        The posterior mean for the district-level voting preference of\n        belizean_ACS_pct for hispanic_PL_pct is\n        0.552\n        The posterior mean for the district-level voting preference of\n        non-belizean_ACS_pct for hispanic_PL_pct is\n        0.655\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        belizean_ACS_pct for hispanic_PL_pct is\n        [0.07023154 0.94450438]\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        non-belizean_ACS_pct for hispanic_PL_pct is\n        [0.65377736 0.65628466]\n        ",
+    "posterior_mean_belizean_ACS_pct_hispanic_PL_pct": 0.5516106486011998,
+    "credible_interval_belizean_ACS_pct_hispanic_PL_pct": [
+        0.07023154303715116,
+        0.9445043845170756
+    ],
+    "posterior_mean_NON_belizean_ACS_pct_hispanic_PL_pct": 0.6550274208438167,
+    "credible_interval_NON_belizean_ACS_pct_hispanic_PL_pct": [
+        0.6537773595604197,
+        0.656284656013428
+    ]
+}

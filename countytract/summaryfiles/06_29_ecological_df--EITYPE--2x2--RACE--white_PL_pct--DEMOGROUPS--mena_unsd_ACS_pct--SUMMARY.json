@@ -1,0 +1,13 @@
+{
+    "summary": "Model: king99_pareto_modification\n        Computed from the raw b_i samples by multiplying by population and then getting\n        the proportion of the total pop (total pop=summed across all districts):\n        The posterior mean for the district-level voting preference of\n        mena_unsd_ACS_pct for white_PL_pct is\n        0.896\n        The posterior mean for the district-level voting preference of\n        non-mena_unsd_ACS_pct for white_PL_pct is\n        0.838\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        mena_unsd_ACS_pct for white_PL_pct is\n        [0.71007992 0.98433778]\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        non-mena_unsd_ACS_pct for white_PL_pct is\n        [0.8371185  0.83977724]\n        ",
+    "posterior_mean_mena_unsd_ACS_pct_white_PL_pct": 0.8960360213795193,
+    "credible_interval_mena_unsd_ACS_pct_white_PL_pct": [
+        0.7100799231774281,
+        0.9843377813925539
+    ],
+    "posterior_mean_NON_mena_unsd_ACS_pct_white_PL_pct": 0.8382175556942144,
+    "credible_interval_NON_mena_unsd_ACS_pct_white_PL_pct": [
+        0.8371185002172749,
+        0.839777239831626
+    ]
+}

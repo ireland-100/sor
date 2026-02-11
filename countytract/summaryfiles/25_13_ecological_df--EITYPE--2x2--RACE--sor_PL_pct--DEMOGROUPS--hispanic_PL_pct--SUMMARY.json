@@ -1,0 +1,13 @@
+{
+    "summary": "Model: king99_pareto_modification\n        Computed from the raw b_i samples by multiplying by population and then getting\n        the proportion of the total pop (total pop=summed across all districts):\n        The posterior mean for the district-level voting preference of\n        hispanic_PL_pct for sor_PL_pct is\n        0.419\n        The posterior mean for the district-level voting preference of\n        non-hispanic_PL_pct for sor_PL_pct is\n        0.001\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        hispanic_PL_pct for sor_PL_pct is\n        [0.41249559 0.42457613]\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        non-hispanic_PL_pct for sor_PL_pct is\n        [1.17129157e-05 1.95728977e-03]\n        ",
+    "posterior_mean_hispanic_PL_pct_sor_PL_pct": 0.41895018663172706,
+    "credible_interval_hispanic_PL_pct_sor_PL_pct": [
+        0.4124955883344024,
+        0.42457613168832814
+    ],
+    "posterior_mean_NON_hispanic_PL_pct_sor_PL_pct": 0.0005389645903730644,
+    "credible_interval_NON_hispanic_PL_pct_sor_PL_pct": [
+        1.1712915703958037e-05,
+        0.001957289769659862
+    ]
+}

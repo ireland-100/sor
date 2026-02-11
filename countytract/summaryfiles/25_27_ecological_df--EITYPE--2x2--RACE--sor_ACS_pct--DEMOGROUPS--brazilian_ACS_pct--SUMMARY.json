@@ -1,0 +1,13 @@
+{
+    "summary": "Model: king99_pareto_modification\n        Computed from the raw b_i samples by multiplying by population and then getting\n        the proportion of the total pop (total pop=summed across all districts):\n        The posterior mean for the district-level voting preference of\n        brazilian_ACS_pct for sor_ACS_pct is\n        0.105\n        The posterior mean for the district-level voting preference of\n        non-brazilian_ACS_pct for sor_ACS_pct is\n        0.037\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        brazilian_ACS_pct for sor_ACS_pct is\n        [0.01270867 0.22477274]\n        95% equal-tailed Bayesian credible interval for district-level voting preference of\n        non-brazilian_ACS_pct for sor_ACS_pct is\n        [0.03473476 0.03804306]\n        ",
+    "posterior_mean_brazilian_ACS_pct_sor_ACS_pct": 0.10533087523243702,
+    "credible_interval_brazilian_ACS_pct_sor_ACS_pct": [
+        0.012708673635997246,
+        0.2247727431823217
+    ],
+    "posterior_mean_NON_brazilian_ACS_pct_sor_ACS_pct": 0.03654789338972236,
+    "credible_interval_NON_brazilian_ACS_pct_sor_ACS_pct": [
+        0.03473475789134808,
+        0.038043056880324756
+    ]
+}
