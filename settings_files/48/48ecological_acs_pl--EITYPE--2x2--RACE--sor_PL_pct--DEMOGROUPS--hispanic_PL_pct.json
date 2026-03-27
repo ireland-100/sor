@@ -1,0 +1,18 @@
+{
+    "csv_flie_name": "/home/peter/Documents/sor/input_data/48ecological_acs_pl.csv",
+    "ei_type": "2x2",
+    "candidate_names": [
+        "sor_PL_pct"
+    ],
+    "demographic_group_names": [
+        "hispanic_PL_pct"
+    ],
+    "precinct_column_name": "GEOID",
+    "group_fraction_column_names": [
+        "hispanic_PL_pct"
+    ],
+    "votes_fraction_column_names": [
+        "sor_PL_pct"
+    ],
+    "pop_column_name": "P1_001N"
+}
